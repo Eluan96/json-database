@@ -2,7 +2,7 @@ export const GynaecologyEquipments = [
     {
         "id": "P01",
         "name": "Most Popular Infant Incubator (BI-800)",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/gynaecology-equipments%2Fp01.jpg?alt=media&token=abe32559-eaf2-4da3-8773-2442364acd79",
         "pricing": {
             "min_order": "1 Piece",
             "fob_price_per_piece": "US $500-1,000/ Piece"
@@ -21,7 +21,7 @@ export const GynaecologyEquipments = [
     {
         "id": "P02",
         "name": "CE & ISO Approved Top-Selling Cheap Bi-800 Infant Incubator",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/gynaecology-equipments%2Fp02.jpg?alt=media&token=1f7ab9c5-a18d-4932-a42e-4b248ff5d626",
         "pricing": {
             "purchase_quantity": ["1-9 Pieces", "10+ Pieces"],
             "fob_price_per_piece": ["US $1,200", "US $9980"]
@@ -52,7 +52,7 @@ export const GynaecologyEquipments = [
     {
         "id": "P03",
         "name": "Bi-2000t Medical Infant Care Infant Incubator for Newborn Baby",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/gynaecology-equipments%2Fp03.jpg?alt=media&token=895d93f6-3892-4a4f-b373-f2532b7b084a",
         "pricing": {
             "min_order": "1 Piece",
             "fob_price_per_piece": "US $3,000-20,000/ Piece"
@@ -96,7 +96,7 @@ export const GynaecologyEquipments = [
     {
         "id": "P04",
         "name": "Ti-2000 Transport Incubator",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/gynaecology-equipments%2Fp04.jpg?alt=media&token=c621b24a-ac4e-4c2c-97fe-b35191ee760e",
         "pricing": {
             "min_order": "1 Piece",
             "fob_price_per_piece": "US $1-10,000/ Piece"
@@ -115,7 +115,7 @@ export const GynaecologyEquipments = [
     {
         "id": "P05",
         "name": "Baby Nurse Neonate Incubator Baby Infant Incubator",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/gynaecology-equipments%2Fp05.jpg?alt=media&token=53cfca54-d4b9-433d-8598-003d7fc6468e",
         "pricing": {
             "min_order": "1 Piece",
             "fob_price_per_piece": "US $900-1,200/ Piece"
@@ -224,7 +224,7 @@ export const GynaecologyEquipments = [
     {
         "id": "P06",
         "name": "B-3000 with Ce Baby Infant Incubator",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/gynaecology-equipments%2Fp06.jpg?alt=media&token=5a306772-85de-4af9-9735-e90d7b3e9c47",
         "pricing": {
             "min_order": "1 Piece",
             "fob_price_per_piece": "US $1,689/ Piece"
@@ -292,7 +292,7 @@ export const GynaecologyEquipments = [
     {
         "id": "P07",
         "name": "B-1000 Medical Baby Infant Incubator Wirh Ce",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/gynaecology-equipments%2Fp07.jpg?alt=media&token=81982824-6525-4998-b5cc-c510a13340e1",
         "pricing": {
             "min_order": "1 Piece",
             "fob_price_per_piece": "US $1,200/ Piece"
@@ -370,7 +370,7 @@ export const GynaecologyEquipments = [
     {
         "id": "P08",
         "name": "B-800 Medical Baby Prodcut Infant Incubator",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/gynaecology-equipments%2Fp08.jpg?alt=media&token=620769e3-836d-4b9b-8142-5a67bf3f5f2e",
         "pricing": {
             "min_order": "1 Piece",
             "fob_price_per_piece": "US $785/ Piece"
@@ -432,7 +432,7 @@ export const GynaecologyEquipments = [
     {
         "id": "P09",
         "name": "Medical Equipment Baby Infant Incubator",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/gynaecology-equipments%2Fp09.jpg?alt=media&token=47581491-ab1e-4bbd-b9f7-aa3f53d53828",
         "pricing": {
             "min_order": "1 Piece",
             "fob_price_per_piece": "US $1-3,000/ Piece"
@@ -459,7 +459,7 @@ export const GynaecologyEquipments = [
     {
         "id": "P10",
         "name": "Bi-100ab Incubators Premature Baby Medical Equipment",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/gynaecology-equipments%2Fp10.jpg?alt=media&token=96d0bcb7-2a24-4c04-9715-eca3209f022e",
         "pricing": {
             "min_order": "1 Piece",
             "fob_price_per_piece": "US $1-100,000/ Piece"
@@ -481,7 +481,7 @@ export const GynaecologyEquipments = [
     {
         "id": "P11",
         "name": "Bi-90 Medical Equipment Baby Infant Incubator",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/gynaecology-equipments%2Fp11.jpg?alt=media&token=4aa4805d-a1ff-42a1-afae-c7637bf4d60e",
         "pricing": {
             "min_order": "1 Piece",
             "fob_price_per_piece": ""
@@ -523,7 +523,7 @@ export const GynaecologyEquipments = [
     {
         "id": "P12",
         "name": "Bi-90b Medical Equipment Baby Infant Care Baby Incubator",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/gynaecology-equipments%2Fp12.jpg?alt=media&token=b103b9df-1842-4d04-be68-e84e5a9dbb58",
         "pricing": {
             "min_order": "1 Piece",
             "fob_price_per_piece": ""
@@ -568,7 +568,7 @@ export const GynaecologyEquipments = [
     {
         "id": "P13",
         "name": "Medical Equipment Neonate Baby Care Infant Incubator",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/gynaecology-equipments%2Fp13.jpg?alt=media&token=4faf0fe7-5a0f-4d3d-adb9-764efd861841",
         "pricing": {
             "min_order": "1 Piece",
             "fob_price_per_piece": "US $1,000-3,000/ Piece"
@@ -590,7 +590,7 @@ export const GynaecologyEquipments = [
     {
         "id": "P14",
         "name": "Bi-90ab Medical Equipment Baby Infant Incubator with Price",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/gynaecology-equipments%2Fp14.jpg?alt=media&token=c8adc041-f1b9-4dd9-bff6-cb7512ef54e5",
         "pricing": {
             "min_order": "1 Piece",
             "fob_price_per_piece": ""
@@ -658,7 +658,7 @@ export const GynaecologyEquipments = [
     {
         "id": "P15",
         "name": "Bi-100A Medical Equipment Baby Infant Incubator with Side Door",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/gynaecology-equipments%2Fp15.jpg?alt=media&token=bed90390-be18-4950-8488-a00ff8206b89",
         "pricing": {
             "min_order": "1 Piece",
             "fob_price_per_piece": ""
@@ -714,7 +714,7 @@ export const GynaecologyEquipments = [
     {
         "id": "P16",
         "name": "Bi-100b Medical Equipment Baby Care Infant Incubator",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/gynaecology-equipments%2Fp16.jpg?alt=media&token=7200be6c-3647-4a56-85fb-9f4dcbc19ed7",
         "pricing": {
             "min_order": "1 Piece",
             "fob_price_per_piece": "US $1,000-3,000/ Piece"
@@ -771,7 +771,7 @@ export const GynaecologyEquipments = [
     {
         "id": "P17",
         "name": "Bi-100ab Medical Equipment Baby Infant Incubator with Side Door",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/gynaecology-equipments%2Fp17.jpg?alt=media&token=58d72268-5fbf-4074-b503-ef6dd8f1a002",
         "pricing": {
             "min_order": "1 Piece",
             "fob_price_per_piece": ""
@@ -828,7 +828,7 @@ export const GynaecologyEquipments = [
     {
         "id": "P18",
         "name": "Bi-910 Baby Medical Equipment Product Infant Incubator",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/gynaecology-equipments%2Fp18.jpg?alt=media&token=9c61e965-9309-4c89-b5f5-a6351ca739c6",
         "pricing": {
             "min_order": "1 Piece",
             "fob_price_per_piece": ""
@@ -898,7 +898,7 @@ export const GynaecologyEquipments = [
     {
         "id": "P19",
         "name": "Bi-920 Baby Medical Equipment Infant Incubator",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/gynaecology-equipments%2Fp19.jpg?alt=media&token=05e2f624-55b5-43bc-af76-72b03fb9aa8e",
         "pricing": {
             "min_order": "1 Piece",
             "fob_price_per_piece": ""
@@ -979,7 +979,7 @@ export const GynaecologyEquipments = [
     {
         "id": "P20",
         "name": "Bi-930 Baby Medical Equipment Infant Incubator",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/gynaecology-equipments%2Fp20.jpg?alt=media&token=4899b951-4eee-4928-bfd1-68a49ec252c7",
         "pricing": {
             "min_order": "1 Piece",
             "fob_price_per_piece": ""
@@ -1054,7 +1054,7 @@ export const GynaecologyEquipments = [
     {
         "id": "P21",
         "name": "Bi-970 Baby Medical Equipment Infant Incubator",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/gynaecology-equipments%2Fp21.jpg?alt=media&token=d2077bb6-70aa-48bb-b2a9-4f29d0ba55e9",
         "pricing": {
             "min_order": "1 Piece",
             "fob_price_per_piece": ""
@@ -1129,7 +1129,7 @@ export const GynaecologyEquipments = [
     {
         "id": "P22",
         "name": "Baby Infant Transport Incubator",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/gynaecology-equipments%2Fp22.jpg?alt=media&token=462be572-8fe2-42f8-bb4a-53fa12cbe729",
         "pricing": {
             "min_order": "1 Piece",
             "fob_price_per_piece": "US $5,000-6,000/ Piece"
@@ -1179,7 +1179,7 @@ export const GynaecologyEquipments = [
     {
         "id": "P23",
         "name": "High Grade Medical Equipment Infant Incubator",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/gynaecology-equipments%2Fp23.jpg?alt=media&token=81eee05e-43ea-4167-ae09-d0a14c60d1a9",
         "pricing": {
             "min_order": "1 Piece",
             "fob_price_per_piece": "US $1,000-1,500/ Piece"
@@ -1202,7 +1202,7 @@ export const GynaecologyEquipments = [
     {
         "id": "P24",
         "name": "High Quality Baby Incubator Infant Incubator",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/gynaecology-equipments%2Fp24.jpg?alt=media&token=c2f35e30-dce3-4f45-b62b-ce139154868d",
         "pricing": {
             "min_order": "1 Piece",
             "fob_price_per_piece": "US $1,000-2,000/ Piece"

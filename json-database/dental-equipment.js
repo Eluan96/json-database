@@ -2,7 +2,7 @@ export const DentalEquipments = [
     {
         "id": "P01",
         "name": "(DXM-10D) Dental X-ray Unit",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/dental-equipments%2Fp01.jpg?alt=media&token=7a86d311-0493-4e9f-93c8-f3a55e0dd73a",
         "pricing": {
             "min_order": "1 Piece",
             "fob_price_per_piece": "US $1-9,000/ Piece"
@@ -21,7 +21,7 @@ export const DentalEquipments = [
     {
         "id": "P02",
         "name": "Panoramic Dental Film X-ray Equipment",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/dental-equipments%2Fp02.jpg?alt=media&token=36bcabb0-c198-40cf-b75f-6f9ea5465efe",
         "pricing": {
             "min_order": "1 Piece",
             "fob_price_per_piece": "US $1-100,000,000,000/ Piece"
@@ -40,7 +40,7 @@ export const DentalEquipments = [
     {
         "id": "P03",
         "name": "Film Panoramic Digital Dental X-ray Machine Types",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/dental-equipments%2Fp03.jpg?alt=media&token=9b11df60-2756-4749-ae5a-9d0fcc48d76f",
         "pricing": {
             "min_order": "1 Piece",
             "fob_price_per_piece": "US $1-100,000/ Piece"
@@ -59,7 +59,7 @@ export const DentalEquipments = [
     {
         "id": "P04",
         "name": "Dental Equipment Best Quality Medical Sterilizer for Dental",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/dental-equipments%2Fp04.jpg?alt=media&token=8b6464f2-4307-4c87-85f4-db7852f93893",
         "pricing": {
             "purchase_quantity": ["1-19 Pieces", "20+ Pieces"],
             "fob_price_per_piece": ["US $1,200", "US $800"]
@@ -96,7 +96,7 @@ export const DentalEquipments = [
     {
         "id": "P05",
         "name": "Dxm-60g Dental X-ray Unit",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/dental-equipments%2Fp05.jpg?alt=media&token=f97fd8db-9664-4bed-bbaa-4c8c7e944cae",
         "pricing": {
             "min_order": "1 Piece",
             "fob_price_per_piece": "US $1-100,000/ Piece"
@@ -115,7 +115,7 @@ export const DentalEquipments = [
     {
         "id": "P06",
         "name": "DC-B280 Cold-Light Lamp Dental Unit",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/dental-equipments%2Fp06.jpg?alt=media&token=62bd9711-c02d-40bb-96a3-56222d424cb7",
         "pricing": {
             "min_order": "1 Piece",
             "fob_price_per_piece": "US $1-100,000/ Piece"
@@ -134,7 +134,7 @@ export const DentalEquipments = [
     {
         "id": "P07",
         "name": "Cheap Sale Best Price China Dental Equipment Chair Unit",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/dental-equipments%2Fp07.jpg?alt=media&token=c458166d-a0a1-4f01-b453-b1b06fea16f1",
         "pricing": {
             "min_order": "1 Piece",
             "fob_price_per_piece": ""
@@ -153,7 +153,7 @@ export const DentalEquipments = [
     {
         "id": "P08",
         "name": "Dxm-60A Film Panoramic Dental X-ray Machine",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/dental-equipments%2Fp08.jpg?alt=media&token=a416764e-dd19-42d8-b5ad-c3af882b2858",
         "pricing": {
             "min_order": "1 Piece",
             "fob_price_per_piece": "US $10,000-20,000/ Piece"
@@ -196,7 +196,7 @@ export const DentalEquipments = [
     {
         "id": "P09",
         "name": "Dxm-60g Dental Equipment Mobile Dental X-ray Machine",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/dental-equipments%2Fp09.jpg?alt=media&token=617fb67a-1239-4b6e-81e8-6880c6517081",
         "pricing": {
             "min_order": "1 Piece",
             "fob_price_per_piece": ""
@@ -247,7 +247,7 @@ export const DentalEquipments = [
     {
         "id": "P10",
         "name": "Dxm-60b Dental Equipment Wall Mounted Dental X-ray Machine",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/dental-equipments%2Fp10.jpg?alt=media&token=0818d351-29ae-494e-aab4-d9d2cf23ccc7",
         "pricing": {
             "min_order": "1 Piece",
             "fob_price_per_piece": ""
@@ -298,7 +298,7 @@ export const DentalEquipments = [
     {
         "id": "P11",
         "name": "Medical Equipment Dental Supply Dental Chair Unit China for Sale",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/dental-equipments%2Fp11.jpg?alt=media&token=ac502cdd-0127-492d-a7d7-904534854b2d",
         "pricing": {
             "min_order": "1 Piece",
             "fob_price_per_piece": ""
@@ -317,7 +317,7 @@ export const DentalEquipments = [
     {
         "id": "P12",
         "name": "DC-12 Hot Sale Hospital Furniture Dental Cabinet",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/dental-equipments%2Fp12.jpg?alt=media&token=56b2f867-403d-4518-9be4-b0ab50998216",
         "pricing": {
             "min_order": "1 Piece",
             "fob_price_per_piece": "US $1,000-1,500/ Piece"
@@ -351,7 +351,7 @@ export const DentalEquipments = [
     {
         "id": "P13",
         "name": "CE Approved Dental Steam Sterilizer",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/dental-equipments%2Fp13.jpg?alt=media&token=cd2bb368-62f3-4d9e-84da-5f357f8d1e07",
         "pricing": {
             "min_order": "1 Piece",
             "fob_price_per_piece": "US $1,000-2,000/ Piece"
@@ -376,7 +376,7 @@ export const DentalEquipments = [
 
         "id": "P14",
         "name": "DC-07 Hosptial Furniture Dental Cabinet",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/dental-equipments%2Fp14.jpg?alt=media&token=666f849b-51f2-49db-8577-9855df718790",
         "pricing": {
             "min_order": "1 Piece",
             "fob_price_per_piece": "	US $500-800/ Piece"
@@ -410,7 +410,7 @@ export const DentalEquipments = [
     {
         "id": "P15",
         "name": "Dwt-Lt6 Double Worker Dental Lab Work Table",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/dental-equipments%2Fp15.jpg?alt=media&token=f7dbfe7e-bf61-4158-b2f1-e60cbd8f4d5d",
         "pricing": {
             "min_order": "1 Piece",
             "fob_price_per_piece": ""
@@ -452,7 +452,7 @@ export const DentalEquipments = [
     {
         "id": "P16",
         "name": "Panoramic Dental X Ray Machine Dp2000",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/dental-equipments%2Fp16.jpg?alt=media&token=e595cb8d-aa1b-4575-a01b-8f2bf5e566a4",
         "pricing": {
             "min_order": "1 Piece",
             "fob_price_per_piece": "US $10,000-20,000/ Piece"
@@ -479,7 +479,7 @@ export const DentalEquipments = [
     {
         "id": "P17",
         "name": "Medical Dental Chair Unit (Without Handpiece or Scale)",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/dental-equipments%2Fp17.jpg?alt=media&token=cbc445e6-0e45-4842-a096-c1e5394d96a9",
         "pricing": {
             "min_order": "1 Piece",
             "fob_price_per_piece": ""
@@ -522,7 +522,7 @@ export const DentalEquipments = [
     {
         "id": "P18",
         "name": "Dental Equipment Supply Companies Dental Unit Chair for Sale",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/dental-equipments%2Fp18.jpg?alt=media&token=18e573c2-56d4-44cd-b3b6-06e05115f84c",
         "pricing": {
             "min_order": "1 Piece",
             "fob_price_per_piece": "US $2,700-3,700/ Piece"
@@ -541,7 +541,7 @@ export const DentalEquipments = [
     {
         "id": "P19",
         "name": "Dxm-60b Dental Supplies Wall Mounted Dental X-ray Unit",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/dental-equipments%2Fp19.jpg?alt=media&token=4eaf9ba2-69a1-44ba-b035-1ae80c75e7ef",
         "pricing": {
             "min_order": "1 Unit",
             "fob_price_per_piece": ""
@@ -566,7 +566,7 @@ export const DentalEquipments = [
     {
         "id": "P20",
         "name": "Medical Equipment Dental Supplies China Dental Chair Unit",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/dental-equipments%2Fp20.jpg?alt=media&token=d662f704-7465-4f90-94c0-d10d3cec7713",
         "pricing": {
             "purchase_quantity": ["1-4 Pieces", "5+ Pieces"],
             "fob_price_per_piece": ["US $1,500", "US $1,000"]
@@ -631,7 +631,7 @@ export const DentalEquipments = [
     {
         "id": "P21",
         "name": "Dental Supplies Dental Chair (Without Handpiece or Scale)",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/dental-equipments%2Fp21.jpg?alt=media&token=5d846f68-dea1-4f83-b59e-da1cdddfee71",
         "pricing": {
             "purchase_quantity": ["1-9 Pieces", "10+ Pieces"],
             "fob_price_per_piece": ["US $3,000", "US $2,000"]
@@ -683,7 +683,7 @@ export const DentalEquipments = [
     {
         "id": "P22",
         "name": "Dxn-60g Medical Dental Supplies Dental X-ray Machine",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/dental-equipments%2Fp22.jpg?alt=media&token=8bf470de-fb66-4ea1-b327-71d64a21a66a",
         "pricing": {
             "min_order": "1 Piece",
             "fob_price_per_piece": "US $1,000/ Piece"
@@ -727,7 +727,7 @@ export const DentalEquipments = [
     {
         "id": "P23",
         "name": "201c Dental Implant Motor Machine with Foot Pedal",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/dental-equipments%2Fp23.jpg?alt=media&token=a2581f20-7977-49a9-a191-f2c9c6487edf",
         "pricing": {
             "min_order": "1 Piece",
             "fob_price_per_piece": "US $1-111,111/ Piece"
@@ -746,7 +746,7 @@ export const DentalEquipments = [
     {
         "id": "P24",
         "name": "Hot Sales 202 Implantology System Dental Implant Motor Machine",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/dental-equipments%2Fp24.jpg?alt=media&token=b78ddadb-6968-4cca-bdc1-aef43075a234",
         "pricing": {
             "purchase_quantity": ["1-9 Pieces", "10+ Pieces"],
             "fob_price_per_piece": ["US $1,500", "US $1,200"]

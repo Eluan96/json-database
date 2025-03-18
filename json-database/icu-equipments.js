@@ -2,7 +2,7 @@ export const IcuEquipments = [
           {
             "id": "P01",
             "name": "Medical Equipment Versatile Ventilator PA-300",
-            "img-url": "",
+            "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/pic1.jpg?alt=media&token=aacb953c-1fca-40f5-ab06-6cb95591d737",
             "pricing": {
               "min_order": "1 Piece",
               "fob_price_per_piece": "US $8,770/ Piece"
@@ -98,7 +98,7 @@ export const IcuEquipments = [
           {
             "id": "P02",
             "name": "ICU Equipment Portable Ventilator PA-100c",
-            "img-url": "",
+            "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/pic2.jpg?alt=media&token=aa137997-1cc2-4e70-8a72-d5652a9220c4",
             "pricing": {
               "min_order": "1 Piece",
               "fob_price_per_piece": "US $1,416/ Piece"
@@ -172,7 +172,7 @@ export const IcuEquipments = [
           {
             "id": "P03",
             "name": "PA-C Medical Equipment: Portable Emergency Ventilator",
-            "img-url": "",
+            "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/pic3.jpg?alt=media&token=c7fdc803-480f-4a6c-8887-a56b99441835",
             "pricing": {
               "min_order": "1 Piece",
               "fob_price_per_piece": ""
@@ -219,7 +219,7 @@ export const IcuEquipments = [
           {
             "id": "P04",
             "name": "PA-100d Medical Portable Ventilator",
-            "img-url": "",
+            "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/pic4.jpg?alt=media&token=8166ad0a-bb39-4651-b9c3-7002474ba3c2",
             "pricing": {
               "min_order":"1 Piece",
               "fob_price_per_piece": ""
@@ -273,7 +273,7 @@ export const IcuEquipments = [
           {
             "id": "P05",
             "name": "Emergency Medical Equipment Portable Ventilator PA-100d",
-            "img-url": "",
+            "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/pic5.jpg?alt=media&token=ae8e7486-1831-4ad9-aa3f-3300db27cc31",
             "port": "Shanghai, China",
             "pricing": {
               "min_order": "1 Piece",
@@ -298,7 +298,7 @@ export const IcuEquipments = [
           {
             "id": "P06",
             "name": "CE Approval Portable Biphasic Defibrillator Monitor",
-            "img-url": "",
+            "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/pic6.jpg?alt=media&token=1432ec04-5547-4f2b-8ed5-0c472974ddbe",
             "pricing": {
               "purchase_quantity": ["1-9 Pieces", "10+ Pieces"],
               "fob_price_per_piece":["US $2,036", "US $1"]
@@ -391,7 +391,7 @@ export const IcuEquipments = [
           {
             "id": "P07",
             "name": "Medical Equipment Price Best PT-9000d Defibrillator",
-            "img-url": "",
+            "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/pic7.jpg?alt=media&token=a0084ea7-ef59-4485-b8e4-25db1ce42149",
             "port": "Shanghai, China",
             "pricing": {
                 "purchase_quantity": ["1-4 Pieces", "5+ Pieces"],
@@ -417,7 +417,7 @@ export const IcuEquipments = [
           {
             "id": "P08",
             "name": "Pdj-3000b Multi-Parameter Patient Monitor",
-            "img-url": "",
+            "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/pic8.jpg?alt=media&token=a068fb91-d324-4632-ab47-9555c77e58ee",
             "pricing": {
                 "min_order": "1 Piece",
                 "fob_price_per_piece": "US $620/Piece"
@@ -521,7 +521,7 @@ export const IcuEquipments = [
           {
             "id": "P09",
             "name": "Manual Biphasic Cardiac Defibrillator Monitor",
-            "img-url": "",
+            "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/pic9.jpg?alt=media&token=a522f173-7f35-457c-af86-a3a913341eb1",
             "pricing": {
                 "min_order": "1 Piece",
                 "fob_price_per_piece": "US $2,352/ Piece"
@@ -622,7 +622,7 @@ export const IcuEquipments = [
           {
             "id": "P10",
             "name": "Medical Equipment Best Defibrillator Unit",
-            "img-url": "",
+            "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/pic10.jpg?alt=media&token=91e7bc46-ebab-40dc-9556-b843d062ea89",
             "pricing": {
                 "purchase_quantity": ["1-9 Pieces", "10+ Pieces"],
               "fob_price_per_piece":["US $2,567", "US $1"]
@@ -704,7 +704,7 @@ export const IcuEquipments = [
           {
             "id": "P11",
             "name": "High Quality Medical Equipment Price of Infant Ventilator",
-            "img-url": "",
+            "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/pic11.jpg?alt=media&token=772b57cd-180a-49d3-92f7-9d781e6597c3",
             "port": "Shanghai, China",
             "pricing": {
                 "min_order": "1 Piece",
@@ -727,7 +727,7 @@ export const IcuEquipments = [
           {
             "id": "P12",
             "name": "ICU Equipment Ce Approved Respiratory Machine Medical Ventilator",
-            "img-url": "",
+            "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/pic12.jpg?alt=media&token=7926860a-094d-4b82-9fd7-9590e2e65544",
             "port": "Shanghai, China",
             "pricing": {
                 "min_order": "1 Piece",
@@ -750,7 +750,7 @@ export const IcuEquipments = [
           {
             "id": "P13",
             "name": "Emergency Portable Ventilator Medical PA-100c",
-            "img-url": "",
+            "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/pic13.jpg?alt=media&token=3bef77f3-1702-4f41-b39c-51a03b3d9a40",
             "pricing": {
                 "min_order": "1 Piece",
                 "fob_price_per_piece": "US $1,400-1,700/ Piece"
@@ -774,7 +774,7 @@ export const IcuEquipments = [
           {
             "id": "P14",
             "name": "Medical ICU Versatile Ventilators PA-300",
-            "img-url": "",
+            "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/pic14.jpg?alt=media&token=79b4cf3b-d1fc-45db-b549-83720f56a299",
             "pricing": {
                 "min_order": "1 Piece",
                 "fob_price_per_piece": ""
@@ -842,7 +842,7 @@ export const IcuEquipments = [
           {
             "id": "P15",
             "name": "PA-100d Medical Hospital Respiratory ICU Portable Breathing Transport Ventilator",
-            "img-url": "",
+            "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/pic15.jpg?alt=media&token=d0b548d0-6fc8-4238-9866-ef89c8f8c272",
             "pricing": {
                 "min_order": "1 Piece",
                 "fob_price_per_piece": "US $2,000-3,000/ Piece"
@@ -861,7 +861,7 @@ export const IcuEquipments = [
           {
             "id": "P16",
             "name": "Surgical Equipment Medical ICU Ventilator PA-900",
-            "img-url": "",
+            "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/pic16.jpg?alt=media&token=88d0b019-a5d2-4291-8eeb-4c3fe748259a",
             "pricing": {
                 "min_order": "1 Piece",
                 "fob_price_per_piece": "US $3,000-4,000/ Piece"
@@ -900,7 +900,7 @@ export const IcuEquipments = [
           {
             "id": "P17",
             "name": "Surgical Equipment Portable Ventilator Medical PA-10",
-            "img-url": "",
+            "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/pic17.jpg?alt=media&token=5c7e28ca-5cb1-4d64-a9b6-e01680a6e19f",
             "pricing": {
                 "min_order": "1 Piece",
                 "fob_price_per_piece": "US $600-800/ Piece"
@@ -935,7 +935,7 @@ export const IcuEquipments = [
           {
             "id": "P18",
             "name": "Surgical Equipment Medical ICU Ventilator",
-            "img-url": "",
+            "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/pic18.jpg?alt=media&token=9d8c212e-2dff-4394-acdb-a5d8bd9a7a27",
             "pricing": {
                 "min_order": "1 Piece",
                 "fob_price_per_piece": "US $2,000-4,000/ Piece"
@@ -978,7 +978,7 @@ export const IcuEquipments = [
           {
             "id": "P19",
             "name": "Medical Supplies Price of Infant Ventilator PA-200",
-            "img-url": "",
+            "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/pic19.jpg?alt=media&token=67cf443c-bbe8-4d79-9668-39a1e8e2b856",
             "pricing": {
                 "min_order": "1 Piece",
                 "fob_price_per_piece": "US $4,000-5,000/ Piece"
@@ -997,7 +997,7 @@ export const IcuEquipments = [
           {
             "id": "P20",
             "name": "Best Price Surgical and ICU Portable Medical Ventilator",
-            "img-url": "",
+            "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/pic20.jpg?alt=media&token=e93aef9b-868e-4a70-be83-84cda119a121",
             "pricing": {
                 "min_order": "1 Piece",
                 "fob_price_per_piece": "US $1,000-2,000/ Piece"
@@ -1016,7 +1016,7 @@ export const IcuEquipments = [
           {
             "id": "P21",
             "name": "Medical Equipment Best Price Maternal/Fetal Monitor",
-            "img-url": "",
+            "imgurl": "",
             "pricing": {
                 "min_order": "1 Piece",
                 "fob_price_per_piece": "US $1,700/ Piece"
@@ -1146,7 +1146,7 @@ export const IcuEquipments = [
           {
             "id": "P22",
             "name": "Best Price Medical Equipment Portable Fetal Monitor",
-            "img-url": "",
+            "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/pic22.jpg?alt=media&token=be438da9-a36d-46e5-b249-96d1b3bfb29f",
             "pricing": {
                 "min_order": "1 Piece",
                 "fob_price_per_piece": "US $779/ Piece"
@@ -1178,7 +1178,7 @@ export const IcuEquipments = [
           {
             "id": "P23",
             "name": "High-End Medical Ventilator PA-900 II with High Quality",
-            "img-url": "",
+            "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/pic23.jpg?alt=media&token=36a9df20-3bae-493a-a688-595588b158b4",
             "pricing": {
                 "min_order": "1 Piece",
                 "fob_price_per_piece": "US $4,500-6,500/ Piece"
@@ -1232,7 +1232,7 @@ export const IcuEquipments = [
           {
             "id": "P24",
             "name": "PA-500 Medical Equipment Price of Emergency Ventilator",
-            "img-url": "",
+            "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/pic24.jpg?alt=media&token=0d419c69-0b30-40f6-9535-f6de11787d6d",
             "pricing": {
                 "min_order": "1 Piece",
                 "fob_price_per_piece": "US $1,000-1,500/ Piece"

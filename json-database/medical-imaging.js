@@ -2,7 +2,7 @@ export const MedicalImaging = [
     {
         "id": "P01",
         "name": "Xm101d X-ray Machine for Sale",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/medical-imaging%2Fp01.jpg?alt=media&token=30b92416-1399-4f9d-a7b0-9fb18cc8c3d2",
         "pricing": {
             "min_order": "1 Piece",
             "fob_price_per_piece": ""
@@ -21,7 +21,7 @@ export const MedicalImaging = [
     {
         "id": "P02",
         "name": "(Model No: XM101D) High Frequency Mobile X-ray Camera",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/medical-imaging%2Fp02.jpg?alt=media&token=a2945842-2675-49ec-931f-1200448a92a3",
         "pricing": {
             "min_order": "1 Piece",
             "fob_price_per_piece": "US $1-100,000,000,000/ Piece"
@@ -40,7 +40,7 @@ export const MedicalImaging = [
     {
         "id": "P03",
         "name": "Xm-F52-8c Remote Controlled Diagnostic X-ray System",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/medical-imaging%2Fp03.jpg?alt=media&token=06b15f76-2d90-4b8c-949b-a65ca9533d50",
         "pricing": {
             "min_order": "1 Piece",
             "fob_price_per_piece": ""
@@ -59,7 +59,7 @@ export const MedicalImaging = [
     {
         "id": "P04",
         "name": "100mA Medical Diagnostic X-ray Unit Xm-F100DC",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/medical-imaging%2Fp04.jpg?alt=media&token=c113638b-bc62-4c46-ab2b-eae6bdc0d0e3",
         "pricing": {
             "min_order": "1 Piece",
             "fob_price_per_piece": "US $1-100,000,000,000/ Piece"
@@ -78,7 +78,7 @@ export const MedicalImaging = [
     {
         "id": "P05",
         "name": "Xm112 High Frequency Digital C-Arm X-ray Machine",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/medical-imaging%2Fp05.jpg?alt=media&token=8e704542-80be-4c6b-a236-c31f05cd19be",
         "pricing": {
             "min_order": "1 Piece",
             "fob_price_per_piece": "US $1-25,000/ Piece"
@@ -97,7 +97,7 @@ export const MedicalImaging = [
     {
         "id": "P06",
         "name": "Medical Equipment 630mA High Frequency Radiography System Xm-Hf50-R",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/medical-imaging%2Fp06.jpg?alt=media&token=e878f098-662d-4a8b-9d14-fcdfc73d06ca",
         "pricing": {
             "min_order": "1 Unit",
             "fob_price_per_piece": ""
@@ -116,7 +116,7 @@ export const MedicalImaging = [
     {
         "id": "P07",
         "name": "20kw High Frequency Stand Type Digital Radiography System Xm100-UF",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/medical-imaging%2Fp07.jpg?alt=media&token=f714adba-a52e-48d8-b56a-341b35af0545",
         "pricing": {
             "min_order": "1 Piece",
             "fob_price_per_piece": "US $1-100,000,000,000/ Piece"
@@ -135,7 +135,7 @@ export const MedicalImaging = [
     {
         "id": "P08",
         "name": "Xm101c High Frequency Mobile X-ray Equipment (100mA)",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/medical-imaging%2Fp08.jpg?alt=media&token=1556bb22-5665-4168-99d5-79fbcd4666ab",
         "pricing": {
             "min_order": "1 Piece",
             "fob_price_per_piece": "US $1-10,000/ Piece"
@@ -154,7 +154,7 @@ export const MedicalImaging = [
     {
         "id": "P09",
         "name": "Xm101c High Frequency Mobile X-ray Equipment (100mA)",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/medical-imaging%2Fp09.jpg?alt=media&token=034a3f9d-c656-4708-92a6-3cbdde167606",
         "pricing": {
             "min_order": "1 Piece",
             "fob_price_per_piece": "US $1-10,000/ Piece"
@@ -173,7 +173,7 @@ export const MedicalImaging = [
     {
         "id": "P10",
         "name": "Medical Equipment 100mA High Frequency Mobile X-ray Unit",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/medical-imaging%2Fp10.jpg?alt=media&token=68dde56e-a553-4cb0-8f8c-6b51f3726991",
         "pricing": {
             "purchase_quantity": ["1-4 Pieces", "5+ Pieces"],
             "fob_price_per_piece": ["US $10,000", "US $5,000"]
@@ -224,7 +224,7 @@ export const MedicalImaging = [
     {
         "id": "P11",
         "name": "Hot Sale 300mA Medical Diagnostic X-ray Machine",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/medical-imaging%2Fp11.jpg?alt=media&token=d0ff41bf-2590-433f-b170-df444eef49d4",
         "pricing": {
             "min_order": "1 Unit",
             "fob_price_per_piece": ""
@@ -243,7 +243,7 @@ export const MedicalImaging = [
     {
         "id": "P12",
         "name": "63mA High Frequency Mobile X-ray Machine",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/medical-imaging%2Fp12.jpg?alt=media&token=6a170e21-5932-4490-8077-3404cd733102",
         "pricing": {
             "purchase_quantity": ["1 Unit", "2+ Unit"],
             "fob_price_per_piece": ["US $5,788", "US $5,888"]
@@ -285,7 +285,7 @@ export const MedicalImaging = [
     {
         "id": "P13",
         "name": "Price of 100mA Medical Diagnostic X-ray Unit",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/medical-imaging%2Fp13.jpg?alt=media&token=24046678-1821-4c18-9929-20222621b4bd",
         "pricing": {
             "min_order": "1 Unit",
             "fob_price_per_piece": ""
@@ -304,7 +304,7 @@ export const MedicalImaging = [
     {
         "id": "P14",
         "name": "Perlong Medical Equipment High Frequency Mobile X-ray Machine Price",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/medical-imaging%2Fp14.jpg?alt=media&token=64392e12-3aa0-4414-9ce8-0bc8f2112229",
         "pricing": {
             "purchase_quantity": ["1-4 Unit", "5+ Unit"],
             "fob_price_per_piece": ["US $10,000", "US $5,000"]
@@ -357,7 +357,7 @@ export const MedicalImaging = [
     {
         "id": "P15",
         "name": "Types of Medical Equipment 100mA Mobile X-ray Unit",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/medical-imaging%2Fp15.jpg?alt=media&token=f700b44b-9824-4d4c-bda7-f1b9b1e9c120",
         "pricing": {
             "min_order": "1 Unit",
             "fob_price_per_piece": ""
@@ -380,7 +380,7 @@ export const MedicalImaging = [
     {
         "id": "P16",
         "name": "Hospital Equipment 500mA Full Wave Radiography X-ray Unit",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/medical-imaging%2Fp16.jpg?alt=media&token=62fce8d6-0395-42a0-af32-bfefa91fd3e1",
         "pricing": {
             "min_order": "1 Unit",
             "fob_price_per_piece": ""
@@ -463,7 +463,7 @@ export const MedicalImaging = [
     {
         "id": "P17",
         "name": "300mA Medical Diagnostic X-ray Machine",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/medical-imaging%2Fp17.jpg?alt=media&token=73dd757a-7316-4a92-9e10-9a0d32f4bd60",
         "pricing": {
             "min_order": "1 Unit",
             "fob_price_per_piece": "US $7,000-8,000/ Piece"
@@ -495,7 +495,7 @@ export const MedicalImaging = [
     {
         "id": "P18",
         "name": "Medical Equipment Price of Portable X-ray Unit Xm-10",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/medical-imaging%2Fp18.jpg?alt=media&token=fcfb924e-af10-47af-8e45-249e00734795",
         "pricing": {
             "min_order": "1 Unit",
             "fob_price_per_piece": ""
@@ -539,7 +539,7 @@ export const MedicalImaging = [
     {
         "id": "P19",
         "name": "Xm-F99 500mA Full Wave Radiography X-ray Machine",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/medical-imaging%2Fp19.jpg?alt=media&token=be6f1f55-e84d-499f-9af6-32f65ef45cc8",
         "pricing": {
             "min_order": "1 Piece",
             "fob_price_per_piece": "US $10,000-15,000/ Piece"
@@ -567,7 +567,7 @@ export const MedicalImaging = [
     {
         "id": "P20",
         "name": "Xm100-UF 20kw High Frequency Radiography System Digital X-ray Machine",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/medical-imaging%2Fp20.jpg?alt=media&token=e1e09250-620b-4ce6-9883-b0195428340a",
         "pricing": {
             "min_order": "1 Piece",
             "fob_price_per_piece": "US $40,000-70,000/ Piece"
@@ -653,7 +653,7 @@ export const MedicalImaging = [
     {
         "id": "P21",
         "name": "100mA Medical Diagnostic X-ray Unit",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/medical-imaging%2Fp21.jpg?alt=media&token=f888d237-42f8-4632-b187-776b76a2aef3",
         "pricing": {
             "min_order": "1 Piece",
             "fob_price_per_piece": "UUS $5,000-6,000/ Piece"
@@ -697,7 +697,7 @@ export const MedicalImaging = [
     {
         "id": "P22",
         "name": "Remote Controlled Medical X-ray Machine",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/medical-imaging%2Fp22.jpg?alt=media&token=e8e87d91-450c-4503-9a93-a83c43b49ace",
         "pricing": {
             "min_order": "1 Piece",
             "fob_price_per_piece": "US $40,000-42,000/ Piece"
@@ -800,7 +800,7 @@ export const MedicalImaging = [
     {
         "id": "P23",
         "name": "100mA Mobile X-ray Machine Xm-F100",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/medical-imaging%2Fp23.jpg?alt=media&token=5efebcb7-d0a7-479a-bcda-36d551bb0b99",
         "pricing": {
             "min_order": "1 Piece",
             "fob_price_per_piece": ""

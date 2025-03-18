@@ -2,7 +2,7 @@ export const UltrasoundScanners = [
     {
         "id": "P01",
         "name": "4D Portable Color Doppler Ultrasound Machine, Portable Ultrasound Machine",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/ultrasound-equipments%2Fp01.jpg?alt=media&token=1069c093-9b1a-418c-b16f-3a1eeeb12628",
         "pricing": {
             "min_order": "1 Piece",
             "fob_price_per_piece": "US $1-10,000,000/ Piece"
@@ -90,7 +90,7 @@ export const UltrasoundScanners = [
     {
         "id": "P02",
         "name": "PT405 Portable Ultransound Scanner",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/ultrasound-equipments%2Fp02.jpg?alt=media&token=78ab7d78-07cc-4f05-89f1-02675fc7d388",
         "pricing": {
             "min_order": "1 Piece",
             "fob_price_per_piece": ""
@@ -107,7 +107,7 @@ export const UltrasoundScanners = [
     {
         "id": "P03",
         "name": "PT400 4D Color Doppler Ultrasound Machine",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/ultrasound-equipments%2Fp03.jpg?alt=media&token=9be934cc-a6d1-46b2-b765-22a51e825cc0",
         "pricing": {
             "min_order": "1 Piece",
             "fob_price_per_piece": "US $8,000-20,000/ Piece"
@@ -126,7 +126,7 @@ export const UltrasoundScanners = [
     {
         "id": "P04",
         "name": "Digital Ultrasound Diagnostic System",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/ultrasound-equipments%2Fp04.jpg?alt=media&token=b5bd86e0-a7d5-45aa-b401-697c7d21a694",
         "pricing": {
             "min_order": "1 Piece",
             "fob_price_per_piece": "US $990/ Piece"
@@ -145,7 +145,7 @@ export const UltrasoundScanners = [
     {
         "id": "P05",
         "name": "PT580 3D Color Doppler Ultrasound Diagnosis System",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/ultrasound-equipments%2Fp05.jpg?alt=media&token=c51a4ee0-c7bf-432b-a189-016bf49ac67a",
         "pricing": {
             "min_order": "1 Piece",
             "fob_price_per_piece": ""
@@ -167,7 +167,7 @@ export const UltrasoundScanners = [
     {
         "id": "P06",
         "name": "Digital 2D Diagnostic Machine Medical Equipment Echo Ultrasound Scanner by PT6102",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/ultrasound-equipments%2Fp06.jpg?alt=media&token=4a8dc924-3ae0-4b3c-8055-46cea851a924",
         "pricing": {
             "min_order": "1 Piece",
             "fob_price_per_piece": "US $3,000-5,000/ Piece"
@@ -186,7 +186,7 @@ export const UltrasoundScanners = [
     {
         "id": "P07",
         "name": "PT3000d1 Laptop Full Digital Ultrasound",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/ultrasound-equipments%2Fp07.jpg?alt=media&token=72358aec-69b4-4f51-8889-9d7fa16aefb1",
         "pricing": {
             "min_order": "1 Piece",
             "fob_price_per_piece": "US $1-10,000/ Piece"
@@ -205,7 +205,7 @@ export const UltrasoundScanners = [
     {
         "id": "P08",
         "name": "Medical Equipment Portable Laptop Digital Ultrasound Scanner Machine Price",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/ultrasound-equipments%2Fp08.jpg?alt=media&token=75b7ad6d-69b9-4f81-b29d-71fb3ccaf1c2",
         "pricing": {
             "min_order": "1 Piece",
             "fob_price_per_piece": "US $800-1,500/ Piece"
@@ -224,7 +224,7 @@ export const UltrasoundScanners = [
     {
         "id": "P09",
         "name": "Best Portable Digital Ultrasound Scanner Machine PT6601",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/ultrasound-equipments%2Fp09.jpg?alt=media&token=b7187181-a129-43ce-9ea9-6857b925b203",
         "pricing": {
             "min_order": "1 Piece",
             "fob_price_per_piece": "US $1-1,000/ Piece"
@@ -243,7 +243,7 @@ export const UltrasoundScanners = [
     {
         "id": "P10",
         "name": "PT3000e1 Full Digital Ultrasound Scanner",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/ultrasound-equipments%2Fp10.jpg?alt=media&token=e86f1182-0e00-43b0-8071-ac74a8161a70",
         "pricing": {
             "min_order": "1 Piece",
             "fob_price_per_piece": "US $1-10,000/ Piece"
@@ -262,7 +262,7 @@ export const UltrasoundScanners = [
     {
         "id": "P11",
         "name": "4D Color Doppler Ultrasound Machine",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/ultrasound-equipments%2Fp11.jpg?alt=media&token=bb8ebb05-28b4-4bbe-96f4-b73a51422284",
         "pricing": {
             "min_order": "1 Piece",
             "fob_price_per_piece": "US $1-100,000/ Piece"
@@ -281,7 +281,7 @@ export const UltrasoundScanners = [
     {
         "id": "P12",
         "name": "Portable Ultrasonido Equipment Machine 3D Color Doppler Echo Ultrasound Scanner",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/ultrasound-equipments%2Fp12.jpg?alt=media&token=a307e66e-da2e-4055-a4af-841ca923a420",
         "pricing": {
             "min_order": "1 Piece",
             "fob_price_per_piece": "US $4,000-6,000/ Piece"
@@ -300,7 +300,7 @@ export const UltrasoundScanners = [
     {
         "id": "P13",
         "name": "Medical Equipment Portable Medical Equipment Color Doppler Echo Ultrasound Scanner",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/ultrasound-equipments%2Fp13.jpg?alt=media&token=6dec0a39-451a-45f0-878e-265fbdfdda59",
         "pricing": {
             "min_order": "1 Piece",
             "fob_price_per_piece": "US $4,000-6,000/ Piece"
@@ -334,7 +334,7 @@ export const UltrasoundScanners = [
     {
         "id": "P14",
         "name": "Medical Equipment Portable 4D Color Doppler Ultrasound Machine with Price",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/ultrasound-equipments%2Fp14.jpg?alt=media&token=efb3baed-8fa2-4c64-ae84-2ca023234da1",
         "pricing": {
             "min_order": "1 Piece",
             "fob_price_per_piece": ""
@@ -352,7 +352,7 @@ export const UltrasoundScanners = [
     {
         "id": "P15",
         "name": "Medical Equipment 3D Color Doppler Ultrasound Diagnosis Machine",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/ultrasound-equipments%2Fp15.jpg?alt=media&token=71bd9978-29c5-4840-b526-87134438f1cc",
         "pricing": {
             "purchase_qty": ["1-4 Pieces", "5-9 Unit", "10+ Pieces"],
             "fob_price_per_piece": ["U	US $15,000", "US $13,000", "US $12,000"],
@@ -377,7 +377,7 @@ export const UltrasoundScanners = [
     {
         "id": "P16",
         "name": "Medical Portable Ultrasound Scanner PT6601",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/ultrasound-equipments%2Fp16.jpg?alt=media&token=f85dd950-52a1-4c85-b0f0-da63cbacd20b",
         "pricing": {
             "min_order": "1 Piece",
             "fob_price_per_piece": "US $1,000-1,500/ Piece"
@@ -396,7 +396,7 @@ export const UltrasoundScanners = [
     {
         "id": "P17",
         "name": "B Mode Portable Ultrasound Scanner PT3000e1",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/ultrasound-equipments%2Fp17.jpg?alt=media&token=f2aa5753-43da-4521-befb-a82075882a83",
         "pricing": {
             "min_order": "1 Piece",
             "fob_price_per_piece": ""
@@ -415,7 +415,7 @@ export const UltrasoundScanners = [
     {
         "id": "P18",
         "name": "B Mode Portable Ultrasound Scanner PT3000e1",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/ultrasound-equipments%2Fp18.jpg?alt=media&token=9dc96817-22fa-43ef-b455-1832a65bd0fe",
         "pricing": {
             "min_order": "1 Piece",
             "fob_price_per_piece": ""
@@ -478,7 +478,7 @@ export const UltrasoundScanners = [
     {
         "id": "P19",
         "name": "4D Color Doppler Ultrasound Scanner",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/ultrasound-equipments%2Fp19.jpg?alt=media&token=3021fe69-2509-42e3-b6b6-91b098b865d5",
         "pricing": {
             "min_order": "1 Unit",
             "fob_price_per_piece": ""
@@ -539,7 +539,7 @@ export const UltrasoundScanners = [
     {
         "id": "P20",
         "name": "4D Color Doppler Ultrasound Machine PT400",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/ultrasound-equipments%2Fp20.jpg?alt=media&token=9ab2955a-1f6f-4027-a9c9-9944c21dc662",
         "pricing": {
             "min_order": "1 Unit",
             "fob_price_per_piece": ""
@@ -607,7 +607,7 @@ export const UltrasoundScanners = [
     {
         "id": "P21",
         "name": "PT6601 Best Portable Digital Ultrasound Scanner Machine",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/ultrasound-equipments%2Fp21.jpg?alt=media&token=27cc4ca5-c111-4dff-aa47-9f63b8e17292",
         "pricing": {
             "min_order": "1 Unit",
             "fob_price_per_piece": ""
@@ -653,7 +653,7 @@ export const UltrasoundScanners = [
     {
         "id": "P22",
         "name": "128 Array 15inch Veterinary Portable Color Doppler Ultrasound Scanner",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/ultrasound-equipments%2Fp22.jpg?alt=media&token=e7be8600-3680-436f-abb8-7271534fe21c",
         "pricing": {
             "min_order": "1 Unit",
             "fob_price_per_piece": "US $4,000-5,000/ Piece"
@@ -672,7 +672,7 @@ export const UltrasoundScanners = [
     {
         "id": "P23",
         "name": "Medical Equipment Pregnancy Scan Echo Ultrasonido Ultrasound Scanner with Battery",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/ultrasound-equipments%2Fp23.jpg?alt=media&token=de4fa7f9-a0bc-4217-9bfa-53fc83b3a0f8",
         "pricing": {
             "min_order": "1 Unit",
             "fob_price_per_piece": "US $3,000-4,000/ Piece"
@@ -691,7 +691,7 @@ export const UltrasoundScanners = [
     {
         "id": "P24",
         "name": "PT6900 Color Doppler Ultrasound 3D Color Doppler Diagnosis System",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/ultrasound-equipments%2Fp24.jpg?alt=media&token=b742857c-2a4a-42fc-a377-c9a335a33a05",
         "pricing": {
             "min_order": "1 Unit",
             "fob_price_per_piece": "US $8,800-19,900/ Piece"

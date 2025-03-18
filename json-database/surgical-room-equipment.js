@@ -2,7 +2,7 @@ export const SurgicalRoomEquipments = [
     {
         "id": "P01",
         "name": "ICU Equipment Multifunctional Anesthesia Machine Jinling-01A",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/surgical-room-equipments%2Fpic25.jpg?alt=media&token=a3ae7235-99e8-4231-ae25-c73502e7214c",
         "pricing": {
             "min_order": "1 Piece",
             "fob_price_per_piece": "US $2,400/ Piece"
@@ -43,7 +43,7 @@ export const SurgicalRoomEquipments = [
     {
         "id": "P02",
         "name": "Jinling-Shic Versatile Anesthesia Unit",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/surgical-room-equipments%2Fpic26.jpg?alt=media&token=cc7fbdab-2901-4648-a37e-262dbafcb251",
         "pricing": {
             "min_order": "1 Piece",
             "fob_price_per_piece": "US $11,295/ Piece"
@@ -103,7 +103,7 @@ export const SurgicalRoomEquipments = [
     {
         "id": "P03",
         "name": "Names of Surgical Equipments Multifunctional Anesthesia Unit",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/surgical-room-equipments%2Fpic27.jpg?alt=media&token=6a34ab8e-4a06-4540-88e2-45173e8d27c7",
         "pricing": {
             "purchase_qty": ["1-4 Piece", "5+ Pieces"],
             "fob_price_per_piece": ["US $5,000", "US $1,000"],
@@ -155,7 +155,7 @@ export const SurgicalRoomEquipments = [
     {
         "id": "P04",
         "name": "Hot Sale Manual Control Anesthesia Machine",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/surgical-room-equipments%2Fpic28.jpg?alt=media&token=da7f89c8-b1d0-4214-8cd9-8b98e7b952bb",
         "pricing": {
             "min_order": "1 Piece",
             "fob_price_per_piece": "US $750-1,200/ Piece"
@@ -175,7 +175,7 @@ export const SurgicalRoomEquipments = [
     {
         "id": "P05",
         "name": "Hospital Equipment Medical Device Portable Anesthesia Machine",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/surgical-room-equipments%2Fpic29.jpg?alt=media&token=f3a8a157-658e-4865-bc29-4062c9c4cd89",
         "pricing": {
             "min_order": "1 Piece",
             "fob_price_per_piece": "US $1-1,350/ Piece"
@@ -194,7 +194,7 @@ export const SurgicalRoomEquipments = [
     {
         "id": "P06",
         "name": "Surgical Hospital Medical Equipment Anesthetic Vaporizer Anaesthesia Workstation Anesthesia Machine",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/surgical-room-equipments%2Fpic30.jpg?alt=media&token=896946ed-4ddb-4c84-b024-48e45fe9a9a6",
         "pricing": {
             "min_order": "1 Piece",
             "fob_price_per_piece": "US $4,000-6,000/ Piece"
@@ -214,7 +214,7 @@ export const SurgicalRoomEquipments = [
 
         "id": "P07",
         "name": "Surgical Equipment Anesthesia Machine with CE",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/surgical-room-equipments%2Fpic31.jpg?alt=media&token=557b3271-11f6-4fe6-ae96-44009f22e1f9",
         "pricing": {
             "min_order": "1 Piece",
             "fob_price_per_piece": "US $2,000-3,000/ Piece"
@@ -254,7 +254,7 @@ export const SurgicalRoomEquipments = [
     {
         "id": "P08",
         "name": "Medical Equipment Two Vaporizer Operating Room Anestesia Anesthesia Machine Jinling-01b",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/surgical-room-equipments%2Fpic32.jpg?alt=media&token=6c51e203-1f5f-496a-b158-e95c8d56ebc4",
         "pricing": {
             "min_order": "1 Piece",
             "fob_price_per_piece": "US $2,000-3,000/ Piece"
@@ -274,7 +274,7 @@ export const SurgicalRoomEquipments = [
     {
         "id": "P09",
         "name": "Jinling-04A Medical Equipment Surgical Instrument Anesthesia Machine",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/surgical-room-equipments%2Fpic33.jpg?alt=media&token=2805e0ba-0fdc-4fef-8507-5d9b90526871",
         "pricing": {
             "min_order": "1 Piece",
             "fob_price_per_piece": "US $4,000-6,000/ Piece"
@@ -340,7 +340,7 @@ export const SurgicalRoomEquipments = [
     {
         "id": "P10",
         "name": "Surgical Equipment Anesthesia Workstation Anesthesia Machine",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/surgical-room-equipments%2Fpic34.jpg?alt=media&token=d2da2756-79de-45ff-b4ac-0453fb05d02d",
         "pricing": {
             "min_order": "1 Piece",
             "fob_price_per_piece": "US $11,000-13,000/ Piece"
@@ -360,7 +360,7 @@ export const SurgicalRoomEquipments = [
     {
         "id": "P11",
         "name": "Hospital Equipment Multifunctional Anesthesia Machine Jinling-01c",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/surgical-room-equipments%2Fpic35.jpg?alt=media&token=d29325b4-8466-449a-bae6-58d31e211550",
         "pricing": {
             "purchase_qty": ["1-4 Pieces", "5+ Pieces"],
             "fob_price_per_piece": ["US $6,000", "US $1,000"],
@@ -417,7 +417,7 @@ export const SurgicalRoomEquipments = [
     {
         "id": "P12",
         "name": "Jinling-820 Surgical Equipment Anesthesia Machine Anestesia Device Medical Equipment",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/surgical-room-equipments%2Fpic36.jpg?alt=media&token=6e132d5a-bfc2-4528-b058-74d466049cda",
         "pricing": {
             "purchase_qty": ["1-9 Pieces", "10+ Pieces"],
             "fob_price_per_piece": ["US $2,660", "US $2,650"],
@@ -436,7 +436,7 @@ export const SurgicalRoomEquipments = [
     {
         "id": "P13",
         "name": "Medical Equipment Best Price Unit Anesthesia",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/surgical-room-equipments%2Fpic37.jpg?alt=media&token=5f82ca42-004d-4309-8be0-a003a54a07c8",
         "pricing": {
             "purchase_qty": ["1-4 Pieces", "5-9 Pieces", "10+ Pieces"],
             "fob_price_per_piece": ["US $2,690", "US $2,650", "US $2,550"],
@@ -485,7 +485,7 @@ export const SurgicalRoomEquipments = [
     {
         "id": "P14",
         "name": "Jinling-850 Standard Model 8.4 LCD Display Screen Anesthesia Machine",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/surgical-room-equipments%2Fpic38.jpg?alt=media&token=b0c56841-564b-4a69-8cb7-67b452bb7728",
         "pricing": {
             "min_order": "1 Piece",
             "fob_price_per_piece": "US $4,600/ Piece"
@@ -505,7 +505,7 @@ export const SurgicalRoomEquipments = [
     {
         "id": "P15",
         "name": "Medical Equipment Best Price Anesthesia Unit Jinling820",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/surgical-room-equipments%2Fpic39.jpg?alt=media&token=959c542b-9b10-4eb0-9582-9c0161cbc765",
         "pricing": {
             "purchase_qty": ["1-4 Pieces", "5-9 Pieces", "10+ Pieces"],
             "fob_price_per_piece": ["US $2,770", "US $2,500", "US $2,000"],
@@ -555,7 +555,7 @@ export const SurgicalRoomEquipments = [
     {
         "id": "P16",
         "name": "Jinling820 Muntifunction Anesthesia Machine with 1 Vaporizer",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/surgical-room-equipments%2Fpic40.jpg?alt=media&token=54c5756c-e335-472f-9aae-c72ed2095cee",
         "pricing": {
             "min_order": "1 Piece",
             "fob_price_per_piece": "US $2,660/ Piece"
@@ -608,7 +608,7 @@ export const SurgicalRoomEquipments = [
     {
         "id": "P17",
         "name": "Surgical Equipment Anesthesia, Mobile Anesthesia (JINLING-01B)",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/surgical-room-equipments%2Fpic41.jpg?alt=media&token=cb54cfac-b253-4caf-819f-722cd46bf727",
         "pricing": {
             "purchase_qty": ["1-4 Pieces", "5+ Pieces"],
             "fob_price_per_piece": ["US $1,788", "US $1,688"],
@@ -653,7 +653,7 @@ export const SurgicalRoomEquipments = [
     {
         "id": "P18",
         "name": "Surgical Equipment Muntifunction Anesthesia Machine",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/surgical-room-equipments%2Fpic42.jpg?alt=media&token=4a348ca9-eff9-4a8b-8cab-d0f685359adc",
         "pricing": {
             "min_order": "1 Piece",
             "fob_price_per_piece": "US $5,000/ Piece"
@@ -710,7 +710,7 @@ export const SurgicalRoomEquipments = [
     {
         "id": "P19",
         "name": "Multifunctional Anesthesia Medical Equipment (JINLING-SHIC)",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/surgical-room-equipments%2Fpic43.jpg?alt=media&token=75f5d02c-9048-4421-aecd-a8dfd9af8498",
         "pricing": {
             "min_order": "1 Piece",
             "fob_price_per_piece": "US $11,600-12,600/ Piece"
@@ -774,7 +774,7 @@ export const SurgicalRoomEquipments = [
     {
         "id": "P20",
         "name": "Muntifunction Anesthesia Machine Jinling-810",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/surgical-room-equipments%2Fpic44.jpg?alt=media&token=9450d526-af5c-442b-885b-14d1b913329e",
         "pricing": {
             "purchase_qty": ["1-9 Pieces", "10+ Pieces"],
             "fob_price_per_piece": ["US $4,000", "US $1"],
@@ -827,7 +827,7 @@ export const SurgicalRoomEquipments = [
     {
         "id": "P21",
         "name": "Multifunctional Anesthesia Unit Medical Equipment (JINLING-01)",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/surgical-room-equipments%2Fpic45.jpg?alt=media&token=19b8808d-17db-4799-9050-d72901fdf241",
         "pricing": {
             "min_order": "1 Piece",
             "fob_price_per_piece": "US $1,300-1,600/ Piece"
@@ -845,7 +845,7 @@ export const SurgicalRoomEquipments = [
     {
         "id": "P22",
         "name": "ICU Equipment Anesthesia Unit Jinling-850",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/surgical-room-equipments%2Fpic46.jpg?alt=media&token=9795970f-b78d-4df1-a213-1ef8f113066f",
         "pricing": {
             "purchase_qty": ["1-4 Pieces", "5+ Pieces"],
             "fob_price_per_piece": ["US $5,500", "US $5,200"],
@@ -864,7 +864,7 @@ export const SurgicalRoomEquipments = [
     {
         "id": "P23",
         "name": "CE certified ICU Multifunctional Anesthetic Machine JINGLING-810",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/surgical-room-equipments%2Fpic47.jpg?alt=media&token=e8ed3f46-32ee-4889-bfcc-15d7c6d7fee3",
         "pricing": {
             "purchase_qty": ["1-9 Pieces", "10+ Pieces"],
             "fob_price_per_piece": ["US $10,000", "US $100"],
@@ -883,7 +883,7 @@ export const SurgicalRoomEquipments = [
     {
         "id": "P24",
         "name": "China Supplier Best Price Medical Equipment Anesthesia",
-        "img-url": "",
+        "imgurl": "https://firebasestorage.googleapis.com/v0/b/napoleon-8e666.appspot.com/o/surgical-room-equipments%2Fpic48.jpg?alt=media&token=25fd20d5-8db7-4ea6-bcf9-f473b5a7b6f5",
         "pricing": {
             "min_order": "1 Piece",
             "fob_price_per_piece": "US $1,689/ Piece"
